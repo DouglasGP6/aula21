@@ -1,0 +1,33 @@
+p{
+    color: coral;
+}
+.botao{
+    color:deeppink;
+    background-color:cornsilk;
+    border-radius: 5px;
+    border-color: cornsilk;
+    font-family:'Courier New', Courier, monospace;
+}
+.rotulo{
+    color:deeppink;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.entrada{
+    background-color:bisque;
+    border-radius: 5px;
+}
+th{
+    color:deeppink;
+    font-size:15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+    border:1px solid darkgray
+}
+td{
+    border:1px solid darkgray
+}
+tr{
+    text-align: center;
+}
